@@ -4,6 +4,10 @@ A modern, minimal, and fast image editor built with **React**, **Vite**, and **T
 
 ---
 
+## 🎬 Demo
+
+- **Live App:** [https://image-editorlive.netlify.app/](https://image-editorlive.netlify.app/)
+- **Watch the demo video:** [Demo Video](https://drive.google.com/file/d/1hpAJ8Jwesakwny9M82PjG2mT2izjFfAm/view?usp=drive_link)
 ## ✨ Features
 
 - **Image Upload:**  
@@ -77,10 +81,6 @@ A modern, minimal, and fast image editor built with **React**, **Vite**, and **T
 
 ---
 
-## 🎬 Demo
-
-- **Live App:** [https://image-editorlive.netlify.app/](https://image-editorlive.netlify.app/)
-- **Watch the demo video:** [Demo Video](https://drive.google.com/file/d/1hpAJ8Jwesakwny9M82PjG2mT2izjFfAm/view?usp=drive_link)
 
 ## 📁 Project Structure
 
