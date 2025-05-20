@@ -77,6 +77,10 @@ A modern, minimal, and fast image editor built with **React**, **Vite**, and **T
 
 ---
 
+## 🎬 Demo
+
+Watch the demo video here: [Demo Video](https://drive.google.com/file/d/1hpAJ8Jwesakwny9M82PjG2mT2izjFfAm/view?usp=drive_link)
+
 ## 📁 Project Structure
 
 - `src/App.jsx` – Main app logic and state management
