@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+/* Minimal Dark Studio Theme */
+body {
+  background: #1e1e1e;
+  color: #fff;
+  font-family: 'Poppins', 'Inter', sans-serif;
+  letter-spacing: 0.01em;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  background: #ff4c4c;
+  border-radius: 50%;
+  border: none;
+  width: 18px;
+  height: 18px;
+  box-shadow: 0 2px 8px #ff4c4c33;
+  transition: background 0.2s;
+}
+input[type="range"]:focus::-webkit-slider-thumb {
+  background: #00bcd4;
+}
+input[type="file"] {
+  background: #2a2a2a;
+  color: #cccccc;
+  border-radius: 8px;
+  padding: 8px;
+  border: none;
+}
+button {
+  transition: background 0.2s, box-shadow 0.2s, color 0.2s;
+  box-shadow: 0 2px 8px #00000033;
+}
